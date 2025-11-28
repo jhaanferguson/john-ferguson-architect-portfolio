@@ -1,12 +1,12 @@
 <template>
   <div class="information-route">
     <div>
-      <h2>About</h2>
+      <p>About</p>
       <p>John Ferguson is a compassionate, conceptually-driven designer based in Vancouver who takes a collaborative, multidisciplinary approach to architecture and design.</p>
     </div>
 
     <div>
-      <h2>Education</h2>
+      <p>Education</p>
 			<div class="information-grid">
 				<div>M.Arch</div>
 				<div>University of Calgary</div>
@@ -19,7 +19,7 @@
     </div>
 
    <div>
-      <h2>Employment</h2>
+      <p>Employment</p>
 			<div class="information-grid">
 				<div>Architect</div>
 				<div>Leckie Studio Architecture + Design</div>
