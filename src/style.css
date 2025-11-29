@@ -90,11 +90,11 @@ a {
   :root {
     --spacing-xs: 0.25rem;
     --spacing-sm: 1.3rem;
-    --spacing-md: 7rem;
+    --spacing-md: 5rem;
 
 
-    --font-size-1: 4rem;
-    --font-size-2: 2.6rem;
+    --font-size-1: 3rem;
+    --font-size-2: 2rem;
     --font-size-3: 2em;
   }
 }
