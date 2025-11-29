@@ -51,8 +51,8 @@ function changeSelectedWork (work: WorkItem) {
 .background-image {
   position: absolute;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: right;
+  justify-content: right;
   top: 0;
   left: 0;
   right: 0;
